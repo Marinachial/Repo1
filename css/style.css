@@ -187,7 +187,12 @@ footer a{
 }
 
 
-  
+  .rotate:hover{
+	transform: rotateY(15deg);
+	cursor: pointer;
+	transition: transform 2s;
+}
+
 
 
 
